@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "markdownlint.config": {
+        "MD013": false,
+        "MD028": false,
+        "MD033": false,
+        "MD036": false
+    }
+}
+
