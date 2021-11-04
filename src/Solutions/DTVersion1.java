@@ -1,0 +1,6 @@
+package Solutions;
+public class DTVersion1 {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+    }
+}
